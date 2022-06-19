@@ -1,0 +1,11 @@
+<html>
+<body>
+
+<?php
+$txt = "three girls ";
+echo = " i love $txt! ";
+
+?>
+
+</body>
+<html>

@@ -1,0 +1,11 @@
+<html>
+<body>
+
+<?php
+printf "<h2> Php is fun!</h2>";
+printf "Hayoo gabung kelas PHP!<br>";
+printf "Bukan pemberi harapan palsu loh ya";
+?>
+
+</body>
+<html>

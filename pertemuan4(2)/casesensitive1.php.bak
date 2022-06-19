@@ -1,0 +1,12 @@
+<!DOCTYPE HTML>
+<html>
+<body>
+
+<?php
+ECHO "Hello Boy!<br>";
+echo "Hello Girl!<br>";
+echo "Hello guys!<br>";
+?>
+
+</body>
+<html>
